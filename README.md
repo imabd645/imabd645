@@ -14,7 +14,7 @@
 ## 🏆 GitHub Trophies
 [![](https://github-profile-trophy.vercel.app/?username=imabd645&theme=dark)](https://github.com/ryo-ma/github-profile-trophy)
 
-
+![GitHub Streak](https://streak-stats.demolab.com/?user=imabd645&theme=tokyonight)
 ![](https://github-contributor-stats.vercel.app/api?username=imabd645&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 
