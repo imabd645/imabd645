@@ -3,6 +3,7 @@
 
 
 ## 🌐 Socials:
+[![Portfolio](https://img.shields.io/badge/Portfolio-iamabd.site-2b4bf2?style=for-the-badge&logo=googlechrome&logoColor=white)](https://iamabd.site)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/imabd73) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/abdullah-masood-3056a5379) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:imabd645@gmail.com) 
 
 # 💻 Tech Stack:
