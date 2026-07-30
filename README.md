@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I’m Abdullah<br><br>💻 Computer Science student with a strong interest in AI, Machine Learning, and Software Development.<br><br>🧠 I enjoy building projects related to Python, C++, data structures, and AI-powered applications.<br><br>🚀 Currently learning and improving my problem-solving and development skills.<br><br>📫 Always open to learning, collaboration, and new opportunities.
+👋 Hi, I’m Abdullah<br><br>💻 Computer Science student with a strong interest in AI, Machine Learning, and Software Development.<br><br>🧠 I enjoy building projects related to Python, C++, data structures, and AI-powered applications.<br><br>🚀 Currently learning and improving my problem-solving and development skills.<br><br>📫 Always open to learning, collaboration, and new opportunities.<br>
 🔗 Check out my full portfolio at [iamabd.site](https://iamabd.site) — projects, background, and contact info.
 
 
