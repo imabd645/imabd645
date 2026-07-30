@@ -3,7 +3,7 @@
 🔗 Check out my full portfolio at [iamabd.site](https://iamabd.site) — projects, background, and contact info.
 
 
-🌐 Socials:
+#🌐 Socials:
 [![Portfolio](https://img.shields.io/badge/Portfolio-iamabd.site-2b4bf2?style=for-the-badge&logo=googlechrome&logoColor=white)](https://iamabd.site)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/imabd73)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/abdullah-masood-3056a5379/)
